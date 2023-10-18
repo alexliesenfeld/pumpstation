@@ -1,6 +1,6 @@
 # PumpStation Audio Plug-In Website
 
-This repository contains the website for my free audio plug-in software called "PumpStation". You can find the result being hosted at https://alexliesenfeld.github.io/pumpstation/.
+This repository contains the website for a free audio plug-in software called "PumpStation". You can find it at https://alexliesenfeld.github.io/pumpstation/.
 
 ## What is PumpStation?
 PumpStation is the audio effect plugin that puts creative power at your fingertips, letting you draw your own volume modulation curves. Craft intriguing audio effects with ease, from simulated sidechain compression to rhythmic tremolo, precise ducking, seamless gating, or stutter effects — the possibilities are vast.
